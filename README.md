@@ -1,1 +1,1 @@
-This is a simple app that is designed to quiz you on League of Legends champions
+This is an android app that is designed to quiz you on League of Legends champions. It takes champion info from the League of Legends API and randomly generates questions about a champion's abilities.
